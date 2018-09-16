@@ -1,0 +1,92 @@
+
+body {
+    background-color: lightblue;
+}
+
+p {
+	font-size: 18px;
+	font-family: verdana;
+}
+
+h2 {
+	text-decoration: underline;
+	color: brown;
+	text-align: center;
+}
+
+.WholeWidth {
+	color: white;
+    background-color: blue;
+    text-align: center;    
+    font-family: verdana;
+    font-size: 18px;
+    margin: 25px;
+    border: 18px solid #73AD21;
+    font-weight: bold;
+}
+
+
+.header {
+	display: flex;
+	width: 38%;
+	text-align: left;
+	font-weight: bold;
+	background-color: white;
+	padding: 30px;
+	text-indent: 5px;	
+	letter-spacing: 2px;
+	font-style: italic;
+	border-radius: 50%;
+	margin-bottom: 50px; 
+	margin-left: 30px;
+}
+
+.content {
+	font-family: Times;
+	font-size: 18px;
+	font-weight: bold;
+	color: grey;
+}
+
+.imagewindow {
+	width: 50%;
+	height: 420px;
+	padding: 40px;
+	margin: auto;
+	margin-bottom: 30px;
+	background-color: black;
+	color: red;
+	text-align: center;
+	font-weight: bold;
+	image-rendering: auto;
+}
+
+.image {
+	width: 500px;
+	padding: 3px;
+	background-color: white;
+}
+
+#adsblock {
+	border: 15px solid #73AD21;
+    max-width: 70%;
+    width: 720px;
+    text-align: center;
+    margin: auto;
+ }
+
+#textads {
+	font-weight: bold;
+	font-style: italic;
+	font-size: 22px;
+	color: purple;
+}
+
+
+#image3 {
+	width:60%;
+	height:40%;
+	padding: 20px;
+}
+
+
